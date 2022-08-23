@@ -11,4 +11,5 @@ The project is split into three parts:
 
 ## Assignment Submission Link
 
-1. [The Elastic Beanstalk URL Endpoint](http://image-filter-dev222222.us-east-1.elasticbeanstalk.com/)
+1. [The Elastic Beanstalk URL Endpoint.](http://image-filter-dev222222.us-east-1.elasticbeanstalk.com/)
+2. [http://image-filter-dev222222.us-east-1.elasticbeanstalk.com/](http://image-filter-dev222222.us-east-1.elasticbeanstalk.com/)
