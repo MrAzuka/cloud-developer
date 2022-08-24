@@ -11,5 +11,5 @@ The project is split into three parts:
 
 ## Assignment Submission Link
 
-1. [The Elastic Beanstalk URL Endpoint.](http://image-filter-dev222222.us-east-1.elasticbeanstalk.com/)
+1. [The Elastic Beanstalk URL Endpoint. Working Url, Click here](http://image-filter-dev222222.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://thumbs.dreamstime.com/b/random-click-squirrel-wire-random-picture-cute-squirrel-219506797.jpg)
 2. [http://image-filter-dev222222.us-east-1.elasticbeanstalk.com/](http://image-filter-dev222222.us-east-1.elasticbeanstalk.com/)
